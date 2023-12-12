@@ -344,9 +344,9 @@ Here are three unlabeled examples:
 <table>
   <tbody><tr><th width="25%">Temperature</th> <th width="25%">Humidity</th>
       <th width="25%">Pressure</th> <th width="25%">&nbsp;</th></tr>
-  <tr><td>12</td> <td>62</td> <td>1014</td>  <td>&nbsp;</td></tr>
-  <tr><td>21</td> <td>47</td> <td>1017</td>  <td>&nbsp;</td></tr>
-  <tr><td>19</td> <td>41</td> <td>1021</td>  <td>&nbsp;</td></tr>
+  <tr><td>12</td> <td>62</td> <td>1014</td>  </tr>
+  <tr><td>21</td> <td>47</td> <td>1017</td>  </tr>
+  <tr><td>19</td> <td>41</td> <td>1021</td>  </tr>
  </tbody>
 </table>
 
