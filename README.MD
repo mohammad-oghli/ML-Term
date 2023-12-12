@@ -9,20 +9,7 @@ The list is not yet completed and still in progress.
  ## Accuracy
 The number of correct classification predictions divided by the total number of predictions. That is:
 
-<<<<<<< HEAD
 $$ Accuracy = \frac {CorrectPredictions} {Correct Predictions + Incorrect Predictions} $$
-=======
-  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-    <mtext>Accuracy</mtext>
-    <mo>=</mo>
-    <mfrac>
-      <mtext>correct predictions</mtext>
-      <mtext>correct predictions + incorrect predictions&#xA0;</mtext>
-    </mfrac>
-  </math>
-
-  </br>
->>>>>>> 3e90f4d8f73e370ab8477015a4d07d7b15d86fb6
 
 For example, a model that made 40 correct predictions and 10 incorrect predictions would have an accuracy of:
 
