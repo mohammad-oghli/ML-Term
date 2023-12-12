@@ -1,6 +1,6 @@
 # Data and Machine Learning Common Terminology
 
-In this repository I added most common Data and ML terminology you should know about it in this domain.
+In this repository I added most common Data and ML terminology you should know about it in this technology domain.
 
 The terminology list is in alphabetical order to simplify searching for any term.
 
