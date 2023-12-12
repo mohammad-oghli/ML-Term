@@ -13,7 +13,7 @@ $$ Accuracy = \frac {CorrectPredictions} {Correct Predictions + Incorrect Predic
 
 For example, a model that made 40 correct predictions and 10 incorrect predictions would have an accuracy of:
 
-$$ Accuracy = \frac {40} {40 + 10} = 80\% $$
+$$ Accuracy = \frac {40} {40 + 10} = {80}\% $$
 
 ## Activation Function
 A function that enables neural networks to learn nonlinear (complex) relationships between features and the label.
