@@ -9,29 +9,11 @@ The list is not yet completed and still in progress.
  ## Accuracy
 The number of correct classification predictions divided by the total number of predictions. That is:
 
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mtext>Accuracy</mtext>
-  <mo>=</mo>
-  <mfrac>
-    <mtext>correct predictions</mtext>
-    <mtext>correct predictions + incorrect predictions&#xA0;</mtext>
-  </mfrac>
-</math>
-</br>
+$$ Accuracy = \frac {CorrectPredictions} {Correct Predictions + Incorrect Predictions} $$
 
 For example, a model that made 40 correct predictions and 10 incorrect predictions would have an accuracy of:
 
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mtext>Accuracy</mtext>
-  <mo>=</mo>
-  <mfrac>
-    <mtext>40</mtext>
-    <mtext>40 + 10</mtext>
-  </mfrac>
-  <mo>=</mo>
-  <mtext>80%</mtext>
-</math>
-<br>
+$$ Accuracy = \frac {40} {40 + 10} = 80\% $$
 
 ## Activation Function
 A function that enables neural networks to learn nonlinear (complex) relationships between features and the label.
