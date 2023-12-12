@@ -4,7 +4,7 @@ In this repository I added most common Data and ML terminology you should know a
 
 The terminology list is in alphabetical order to simplify searching for any term.
 
-The list is not yet completed and still in progress.
+The list is not yet completed and still in progress🔜
 
  ## Accuracy
 The number of correct classification predictions divided by the total number of predictions. That is:
